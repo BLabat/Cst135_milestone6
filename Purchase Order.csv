@@ -1,0 +1,17 @@
+Name,Price,Quantity,ProductID,Product Total,Running Total
+Pepsi co.,1.0,20,20.0,20.0
+Pepsi Co.,1.0,20,20.0,40.0
+Pepsi Co.,1.0,20,20.0,60.0
+Pepsi Co.,1.0,20,20.0,80.0
+Mars, Inc.,3.0,20,60.0,140.0
+Mars, Inc.,3.0,20,60.0,200.0
+Nestle,3.0,20,60.0,260.0
+Mars, Inc.,3.0,20,60.0,320.0
+Frito Lay,1.0,20,20.0,340.0
+Frito Lay,1.0,20,20.0,360.0
+Frito Lay,1.0,20,20.0,380.0
+Frito Lay,1.0,20,20.0,400.0
+Wrigley,0.25,20,5.0,405.0
+Wrigley,0.25,20,5.0,410.0
+Wrigley,0.25,20,5.0,415.0
+Wrigley,0.25,20,5.0,420.0
